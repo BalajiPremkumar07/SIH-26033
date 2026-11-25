@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 25-11-2026
+## Reference Number: 26007368
+## Name: Balaji P
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,69 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+HARVESTBRIDGE is a digital platform that connects farmers directly with consumers, retailers and bulk buyers. It aims to reduce unnecessary middlemen, improve farmers' earnings and provide fresh agricultural products at affordable prices.
+
+Its unique feature is Collective Harvest Pooling, where multiple nearby farmers combine their produce to fulfil large orders. The platform also uses AI to predict demand, suggest fair prices and coordinate deliveries.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+Frontend: React.js
+
+Backend: Python (FastAPI)
+
+Database: PostgreSQL
+
+AI/ML: Python, Scikit-learn
+
+Maps and Routes: OpenStreetMap
+
+Mobile Application: Flutter
+
+
+workflow:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00df0c7f-b74e-4417-acec-90d48f6eae67" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The platform can be developed using existing technologies and open-source tools. It can initially be tested with a small group of farmers and local buyers.
+
+Challenges:
+
+Lack of digital knowledge among farmers.
+
+Transportation and delivery difficulties.
+
+Product quality differences.
+
+Demand prediction errors.
+
+Solutions:
+
+Provide a simple regional-language interface.
+
+Partner with local transport providers and FPOs.
+
+Introduce basic quality verification.
+
+Continuously improve predictions using market data.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Better selling prices for farmers.
 
+Affordable and fresh products for consumers.
+
+Reduced transportation expenses.
+
+Less food wastage through demand forecasting.
+
+Improved market access for small-scale farmers.
+
+More transparent agricultural trading.
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+e-NAM – https://www.enam.gov.in/
+
+AGMARKNET – https://agmarknet.gov.in/
+
+Open Government Data – https://data.gov.in/
+
+OpenStreetMap – https://www.openstreetmap.org/
